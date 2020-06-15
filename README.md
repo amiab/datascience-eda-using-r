@@ -1,2 +1,3 @@
-# datascience-eda-using-r
-Exploratory data analysis using R
+# Datascience with R
+
+For the Exploratory Data Analysis I used R Studio
