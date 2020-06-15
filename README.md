@@ -1,3 +1,3 @@
-# Datascience with R
+# Datascience using R
 
 For the Exploratory Data Analysis I used R Studio
